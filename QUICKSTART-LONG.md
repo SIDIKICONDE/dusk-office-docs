@@ -6,8 +6,6 @@ Dark themes for **Visual Studio Code** and **Cursor**.
 
 **Open VSX:** [dekidev.dusk-office](https://open-vsx.org/extension/dekidev/dusk-office)
 
-**Screenshots:** [README — Screenshots](./README.md#screenshots) (`images/screenshot-*.png`).
-
 <span style="color:#4ec9b0">◆</span> <span style="color:#569cd6">Dream</span> <span style="color:#c586c0">in</span> <span style="color:#ce9178">color</span> <span style="color:#dcdcaa">◆</span>
 
 ## Overview

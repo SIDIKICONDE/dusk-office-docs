@@ -6,24 +6,6 @@ Dark themes for **VS Code** and **Cursor**. 15+ variants, semantic highlighting,
 
 **Marketplace:** [dekidev.dusk-office](https://marketplace.visualstudio.com/items?itemName=dekidev.dusk-office)
 
-## Screenshots
-
-<p align="center">
-<img src="images/screenshot-finance.png" alt="Dusk Office Finance — premium banking aesthetic" width="780" />
-</p>
-
-<p align="center">
-<img src="images/screenshot-abyss.png" alt="Dusk Office Abyss" width="300" />
-&nbsp;&nbsp;
-<img src="images/screenshot-ivory.png" alt="Dusk Office Ivory light theme" width="300" />
-&nbsp;&nbsp;
-<img src="images/screenshot-dusk-office.png" alt="Dusk Office — default dark theme in the editor" width="300" />
-</p>
-
-<p align="center">
-<img src="images/screenshot-control-center.png" alt="Dusk Office Control Center — quick theme actions" width="780" />
-</p>
-
 <p align="center"><img src="images/icon.png" alt="Dusk Office extension icon" width="128" height="128" /></p>
 
 ---
