@@ -9,8 +9,7 @@ Dark themes for **VS Code** and **Cursor**. 15+ variants, semantic highlighting,
 ## Screenshots
 
 <p align="center">
-<img src="images/screenshot-dusk-office.png" alt="Dusk Office — default dark theme in the editor" width="780" /><br/>
-<sub>Default variant</sub>
+<img src="images/screenshot-dusk-office.png" alt="Dusk Office — default dark theme in the editor" width="780" />
 </p>
 
 <p align="center">
@@ -18,13 +17,11 @@ Dark themes for **VS Code** and **Cursor**. 15+ variants, semantic highlighting,
 &nbsp;&nbsp;
 <img src="images/screenshot-ivory.png" alt="Dusk Office Ivory light theme" width="300" />
 &nbsp;&nbsp;
-<img src="images/screenshot-finance.png" alt="Dusk Office Finance" width="300" /><br/>
-<sub>Abyss · Ivory · Finance</sub>
+<img src="images/screenshot-finance.png" alt="Dusk Office Finance" width="300" />
 </p>
 
 <p align="center">
-<img src="images/screenshot-control-center.png" alt="Dusk Office Control Center" width="780" /><br/>
-<sub>Control Center (quick theme actions)</sub>
+<img src="images/screenshot-control-center.png" alt="Dusk Office Control Center — quick theme actions" width="780" />
 </p>
 
 <p align="center"><img src="images/icon.png" alt="Dusk Office extension icon" width="128" height="128" /></p>
