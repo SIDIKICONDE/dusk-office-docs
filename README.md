@@ -6,8 +6,6 @@ Dark themes for **VS Code** and **Cursor**. 15+ variants, semantic highlighting,
 
 **Marketplace:** [dekidev.dusk-office](https://marketplace.visualstudio.com/items?itemName=dekidev.dusk-office)
 
-<p align="center"><img src="images/icon.png" alt="Dusk Office extension icon" width="128" height="128" /></p>
-
 ---
 
 ## Install
