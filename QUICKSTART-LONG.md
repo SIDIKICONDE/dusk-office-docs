@@ -2,7 +2,7 @@
 
 Dark themes for **Visual Studio Code** and **Cursor**.
 
-**Main readme** (install, switch theme, quick settings, Marketplace): **[README.md](./README.md)**.
+**This repository** ([dusk-office-docs](https://github.com/SIDIKICONDE/dusk-office-docs)) is the public documentation. **Main readme** (install, switch theme, quick settings): **[README.md](./README.md)**. **Extension source code:** [SIDIKICONDE/dusk-office](https://github.com/SIDIKICONDE/dusk-office).
 
 **Open VSX:** [dekidev.dusk-office](https://open-vsx.org/extension/dekidev/dusk-office)
 
@@ -143,10 +143,10 @@ Defined in `package.json` → `contributes.configuration` (`duskOffice.*`).
 
 | What | Where |
 |------|--------|
-| Color theme list & JSON paths | `package.json` → `contributes.themes` (17 themes) |
-| Product icon theme | `package.json` → `contributes.productIconThemes` (`dusk-office-product` → **Dusk Office · Product**) |
-| Theme names for picker, favorite, auto-switch | `extension.js` → `THEME_VARIANTS` (keep in sync with `package.json` labels) |
-| Runtime state keys | `extension.js` — `duskOffice.previousTheme`, `favoriteTheme`, `workspaceTheme`, title bar / product icon restore keys |
+| Color theme list & JSON paths | [`package.json`](https://github.com/SIDIKICONDE/dusk-office/blob/main/package.json) → `contributes.themes` (17 themes) |
+| Product icon theme | [`package.json`](https://github.com/SIDIKICONDE/dusk-office/blob/main/package.json) → `contributes.productIconThemes` (`dusk-office-product` → **Dusk Office · Product**) |
+| Theme names for picker, favorite, auto-switch | [`extension.js`](https://github.com/SIDIKICONDE/dusk-office/blob/main/extension.js) → `THEME_VARIANTS` (keep in sync with `package.json` labels) |
+| Runtime state keys | [`extension.js`](https://github.com/SIDIKICONDE/dusk-office/blob/main/extension.js) — `duskOffice.previousTheme`, `favoriteTheme`, `workspaceTheme`, title bar / product icon restore keys |
 | Build & theme pipeline | [MAINTENANCE.md](./MAINTENANCE.md) |
 
 ### Optional: secondary Git gutter (staged)
@@ -166,6 +166,8 @@ The theme JSON schema does not allow `editorGutter.*SecondaryBackground` keys. T
 Use matching accent hexes if you use another variant.
 
 ## Terminal Colors
+
+Paths such as `scripts/palettes-extended-ui.json` and `merge-extended-ui-colors.mjs` live in the **[extension repository](https://github.com/SIDIKICONDE/dusk-office)**.
 
 Integrated terminal uses **`terminal.background`** = **`panel`** and **`terminal.foreground`** = **`fg`** from each entry in `scripts/palettes-extended-ui.json` (applied by `merge-extended-ui-colors.mjs`). ANSI slots map to the same palette (errors, accents, success, etc.), so each **dark variant** keeps a coherent "profile" (fond + texte + couleurs d'échappement).
 
@@ -206,7 +208,7 @@ Terminal cursor and selection colors match the active theme accent.
 
 ### Check contrast locally
 
-After regenerating themes, run:
+After cloning [SIDIKICONDE/dusk-office](https://github.com/SIDIKICONDE/dusk-office) and regenerating themes, run:
 
 ```bash
 npm run verify:terminal

@@ -2,7 +2,7 @@
 
 Dark themes for **VS Code** and **Cursor**. 15+ variants, semantic highlighting, full UI theming.
 
-This **README** is the primary documentation (GitHub and Marketplace). For the extended guide — full theme list, terminal palettes, contrast notes — see [QUICKSTART-LONG.md](./QUICKSTART-LONG.md).
+**Public documentation** for Dusk Office ([this repository](https://github.com/SIDIKICONDE/dusk-office-docs)). **Extension source:** [SIDIKICONDE/dusk-office](https://github.com/SIDIKICONDE/dusk-office). The same readme is shown on the **Marketplace** with the extension. Extended guide — full theme list, terminal palettes, contrast notes — [QUICKSTART-LONG.md](./QUICKSTART-LONG.md).
 
 **Marketplace:** [dekidev.dusk-office](https://marketplace.visualstudio.com/items?itemName=dekidev.dusk-office)
 
@@ -45,7 +45,7 @@ code --install-extension dusk-office-*.vsix
 | Light / daytime | **Dusk Office Ivory** |
 | High contrast / accessibility | **Dusk Office High Contrast** |
 
-Full list of 15+ variants: [Included Themes](./QUICKSTART-LONG.md#included-themes) in the extended guide.
+Full list of 15+ variants: [Included Themes](./QUICKSTART-LONG.md#included-themes).
 
 ---
 
@@ -61,8 +61,8 @@ Open settings (`Cmd/Ctrl + ,`) and search `Dusk Office`:
 
 ## Next Steps
 
-- Deep customization: [Settings](./QUICKSTART-LONG.md#settings) (extended guide)
-- Terminal contrast verification: `npm run verify:terminal`
+- Deep customization: [Settings](./QUICKSTART-LONG.md#settings)
+- Terminal contrast verification: clone [SIDIKICONDE/dusk-office](https://github.com/SIDIKICONDE/dusk-office) and run `npm run verify:terminal`
 - Contributing / building themes: [MAINTENANCE.md](./MAINTENANCE.md)
 
 ---
