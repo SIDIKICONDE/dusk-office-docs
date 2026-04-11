@@ -62,8 +62,8 @@ Open settings (`Cmd/Ctrl + ,`) and search `Dusk Office`:
 ## Next Steps
 
 - Deep customization: [Settings](./QUICKSTART-LONG.md#settings)
+- Changelog: [CHANGELOG.md](./CHANGELOG.md)
 - Terminal contrast verification: clone [SIDIKICONDE/dusk-office](https://github.com/SIDIKICONDE/dusk-office) and run `npm run verify:terminal`
-- Contributing / building themes: [MAINTENANCE.md](./MAINTENANCE.md)
 
 ---
 
