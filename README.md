@@ -14,10 +14,12 @@ Dark themes for **VS Code** and **Cursor**. 15+ variants, semantic highlighting,
 </p>
 
 <p align="center">
-<img src="images/screenshot-abyss.png" alt="Dusk Office Abyss" width="380" />
+<img src="images/screenshot-abyss.png" alt="Dusk Office Abyss" width="300" />
 &nbsp;&nbsp;
-<img src="images/screenshot-ivory.png" alt="Dusk Office Ivory light theme" width="380" /><br/>
-<sub>Abyss · Ivory</sub>
+<img src="images/screenshot-ivory.png" alt="Dusk Office Ivory light theme" width="300" />
+&nbsp;&nbsp;
+<img src="images/screenshot-finance.png" alt="Dusk Office Finance" width="300" /><br/>
+<sub>Abyss · Ivory · Finance</sub>
 </p>
 
 <p align="center">
