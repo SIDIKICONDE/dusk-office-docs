@@ -2,9 +2,30 @@
 
 Dark themes for **VS Code** and **Cursor**. 15+ variants, semantic highlighting, full UI theming.
 
-**Public documentation** for Dusk Office ([this repository](https://github.com/SIDIKICONDE/dusk-office-docs)). **Extension source:** [SIDIKICONDE/dusk-office](https://github.com/SIDIKICONDE/dusk-office). The same readme is shown on the **Marketplace** with the extension. Extended guide — full theme list, terminal palettes, contrast notes — [QUICKSTART-LONG.md](./QUICKSTART-LONG.md).
+**Public documentation** for Dusk Office ([this repository](https://github.com/SIDIKICONDE/dusk-office-docs)). **Extension source:** [SIDIKICONDE/dusk-office](https://github.com/SIDIKICONDE/dusk-office). The same readme ships on the **Marketplace** with the extension. Extended guide — [QUICKSTART-LONG.md](./QUICKSTART-LONG.md).
 
 **Marketplace:** [dekidev.dusk-office](https://marketplace.visualstudio.com/items?itemName=dekidev.dusk-office)
+
+## Screenshots
+
+<p align="center">
+<img src="images/screenshot-dusk-office.png" alt="Dusk Office — default dark theme in the editor" width="780" /><br/>
+<sub>Default variant</sub>
+</p>
+
+<p align="center">
+<img src="images/screenshot-abyss.png" alt="Dusk Office Abyss" width="380" />
+&nbsp;&nbsp;
+<img src="images/screenshot-ivory.png" alt="Dusk Office Ivory light theme" width="380" /><br/>
+<sub>Abyss · Ivory</sub>
+</p>
+
+<p align="center">
+<img src="images/screenshot-control-center.png" alt="Dusk Office Control Center" width="780" /><br/>
+<sub>Control Center (quick theme actions)</sub>
+</p>
+
+<p align="center"><img src="images/icon.png" alt="Dusk Office extension icon" width="128" height="128" /></p>
 
 ---
 
@@ -45,7 +66,7 @@ code --install-extension dusk-office-*.vsix
 | Light / daytime | **Dusk Office Ivory** |
 | High contrast / accessibility | **Dusk Office High Contrast** |
 
-Full list of 15+ variants: [Included Themes](./QUICKSTART-LONG.md#included-themes).
+Full list of 15+ variants: [Included Themes](./QUICKSTART-LONG.md#included-themes) · [on GitHub](https://github.com/SIDIKICONDE/dusk-office-docs/blob/main/QUICKSTART-LONG.md#included-themes).
 
 ---
 
