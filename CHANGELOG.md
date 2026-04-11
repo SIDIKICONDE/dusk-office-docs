@@ -1,5 +1,11 @@
 # Changelog — Dusk Office
 
+## 0.8.3 — 12 April 2026
+
+- **Changed**: version bump.
+- **Docs**: README links to the changelog file; public copy on [dusk-office-docs](https://github.com/SIDIKICONDE/dusk-office-docs).
+- **Docs**: `MAINTENANCE.md` tracked again for maintainers (no longer in `.gitignore`).
+
 ## 0.8.0 — 11 April 2026
 
 - **Changed**: version bump.
