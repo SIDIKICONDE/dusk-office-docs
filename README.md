@@ -14,11 +14,11 @@ This **README** is the primary documentation (GitHub and Marketplace). **Public 
 
 | Dusk Office Midnight | Dusk Office Abyss | Dusk Office Nocturne |
 |:---:|:---:|:---:|
-| ![Midnight](https://raw.githubusercontent.com/SIDIKICONDE/dusk-office/main/images/screenshot-01.jpg) | ![Abyss](https://raw.githubusercontent.com/SIDIKICONDE/dusk-office/main/images/screenshot-02.jpg) | ![Nocturne](https://raw.githubusercontent.com/SIDIKICONDE/dusk-office/main/images/screenshot-03.jpg) |
+| ![Midnight](images/screenshot-01.jpg) | ![Abyss](images/screenshot-02.jpg) | ![Nocturne](images/screenshot-03.jpg) |
 
 | Dusk Office Finance | Dusk Office Ivory |
 |:---:|:---:|
-| ![Finance](https://raw.githubusercontent.com/SIDIKICONDE/dusk-office/main/images/screenshot-04.jpg) | ![Ivory](https://raw.githubusercontent.com/SIDIKICONDE/dusk-office/main/images/screenshot-05.jpg) |
+| ![Finance](images/screenshot-04.jpg) | ![Ivory](images/screenshot-05.jpg) |
 
 ---
 
